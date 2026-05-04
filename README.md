@@ -4,6 +4,3 @@ Este repositório reúne os projetos desenvolvidos na disciplina **Laboratório 
 ## 💻 Tecnologias utilizadas 
 - Java
 - Programação Orientada a Objetos (POO)
-  
-## ✍️ Autora 
-Desenvolvido por Sofia Guerra 
