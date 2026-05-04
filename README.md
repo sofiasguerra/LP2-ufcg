@@ -6,4 +6,4 @@ Este repositório reúne os projetos desenvolvidos na disciplina **Laboratório 
 - Programação Orientada a Objetos (POO)
   
 ## ✍️ Autora 
-Desenvolvido por Sofia Guerra durante as aulas
+Desenvolvido por Sofia Guerra 
