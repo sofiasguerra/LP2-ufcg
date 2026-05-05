@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"lab02","c":"Aluno","l":"Aluno(String, String, int)","u":"%3Cinit%3E(java.lang.String,java.lang.String,int)"},{"p":"lab02","c":"Aluno","l":"getIdade()"},{"p":"lab02","c":"Aluno","l":"setCra(double)"},{"p":"lab02","c":"Aluno","l":"toString()"}];updateSearchResults();
