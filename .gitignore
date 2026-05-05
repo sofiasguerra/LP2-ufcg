@@ -1,5 +1,9 @@
 bin/
+doc/
 .settings/
 .classpath
 .project
+<<<<<<< HEAD
 /.metadata/
+=======
+>>>>>>> c3d14016337815d6adcf77701c318e4e87b267c4
