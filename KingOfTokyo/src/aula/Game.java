@@ -39,8 +39,6 @@ public class Game {
 			System.out.println(players[i]);
 		}
 		
-		
-		
 	}
 
 }
